@@ -1,0 +1,8 @@
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\ImageCropPro\ImageCropPro\obj\Debug\ImageCropPro.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\ImageCropPro\ImageCropPro\obj\Debug\ImageChopPro.frmMainWindow.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\ImageCropPro\ImageCropPro\obj\Debug\ImageChopPro.Properties.Resources.resources
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\ImageCropPro\ImageCropPro\obj\Debug\ImageCropPro.csproj.GenerateResource.Cache
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\ImageCropPro\ImageCropPro\bin\Debug\ImageChopPro.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\ImageCropPro\ImageCropPro\bin\Debug\ImageChopPro.pdb
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\ImageCropPro\ImageCropPro\obj\Debug\ImageChopPro.exe
+C:\Users\Mike\Documents\Visual Studio 2013\Projects\ImageCropPro\ImageCropPro\obj\Debug\ImageChopPro.pdb
